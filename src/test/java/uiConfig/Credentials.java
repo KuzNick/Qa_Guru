@@ -5,4 +5,5 @@ public class Credentials {
     public static final String SOLNTSEV_PAGE = "/selenide/selenide";
     public static final String SOLNTSEV ="Andrei Solntsev";
     public static final String Junit5 = "JUnit5";
+    public static final String H1_PAGE_ENTERPRISE ="The AI-powered developer platform";
 }
